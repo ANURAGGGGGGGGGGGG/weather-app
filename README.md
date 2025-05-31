@@ -76,4 +76,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Demo
 
-Live demo: [Weather App Demo](http://localhost:5173)
+Live demo: [Weather App Demo](https://anuragggggggggggg.github.io/weather-app/)
